@@ -1,0 +1,15 @@
+--- #YAML:1.0
+name:                MojoX-Session-Store-Rose
+version:             0.02
+abstract:            Rose::DB::Object Store for MojoX::Session
+license:             perl
+author:              
+    - Sascha Kiefer <perl@intertivity.com>
+generated_by:        ExtUtils::MakeMaker version 6.42_01
+distribution_type:   module
+requires:     
+    MojoX::Session:                0.15
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
